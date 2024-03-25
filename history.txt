@@ -1,0 +1,406 @@
+    1  ls
+    2  cd
+    3  ls
+    4  cd Desktop/
+    5  git clone https://github.com/FlutterTutorialNet/flutter_login_ui.git
+    6  cd
+    7  ls
+    8  cd Desktop/
+    9  ls
+   10  cd mtn app academy
+   11  mtn\ app\ academy/
+   12  cd mtn\ app\ academy/
+   13  flutter create module_3
+   14  ls
+   15  cd module 3
+   16  cd module_3
+   17  code
+   18  cd
+   19  ls
+   20  cd Desktop/
+   21  cd mtn\ app\ academy/
+   22  ls
+   23  cd mukwevhorotondwa/
+   24  flutter create module3
+   25  cd module3
+   26  flutter run
+   27  ls
+   28  cd Desktop/
+   29  ls
+   30  cd mtn app academy
+   31  cd mtn\ app\ academy/
+   32  ls
+   33  cd mukwevhorotondwa/
+   34  ls
+   35  cd module3/
+   36  ls
+   37  git status
+   38  ssh -keygen
+   39  ssh-keygen
+   40  cd 
+   41  ls
+   42  cd Desktop/
+   43  cd mtn\ app\ academy/
+   44  cd mukwevhorotondwa/
+   45  ls
+   46  cd module3/
+   47  git add.
+   48  git add .
+   49  git init
+   50  git add .
+   51  git commit -m "module3"
+   52  git remote add origin https://gitlab.com/roto_dev/rotondwa-mukwevho-module-3.git
+   53  git branch -M main
+   54  git push -uf origin main
+   55  git remote add origin https://github.com/Mukwevhorotondwa/rotondwa.git
+   56  git branch -M main
+   57  git push -u origin main
+   58  git remote add origin https://github.com/Mukwevhorotondwa/rotondwa.git
+   59  git remote --verbose
+   60  git remote set-url origin  https://gitlab.com/roto_dev/rotondwa-mukwevho-module-3.git
+   61  git remote --verbose
+   62  git add .
+   63  git commit -m 'roto'
+   64  git push origin main
+   65  git pull https://gitlab.com/roto_dev/rotondwa-mukwevho-module-3.git
+   66  git add .
+   67  git commit 'my'
+   68  git commit -m 'mywork'
+   69  git push
+   70   git push --set-upstream origin main
+   71  git push --help
+   72  git remote add origin https://gitlab.com/roto_dev/rotondwa-mukwevho-module-3.git
+   73  git branch -M main
+   74  git push -uf origin main
+   75  git push
+   76  git push --set-upstream origin main
+   77  git pull --rebase main
+   78  git add .
+   79  git commit - 'my'
+   80  git commit -m 'my'
+   81  git push
+   82   git push --set-upstream origin main
+   83  git pull --rebase main
+   84  git pull --rebase origin main
+   85  git add/rm <conflicted_files>
+   86  git rebase
+   87  git rebase --skip
+   88  git add .
+   89  git commit -m 'my'
+   90  git push -u origin master
+   91  git log
+   92  git status
+   93  cd Desktop/
+   94  ls
+   95  cd mtn\ app\ academy/
+   96  cd mukwevhorotondwa/
+   97  cd module3/
+   98  git remote add origin https://gitlab.com/roto_dev/rotondwa-mukwevho-module-3.git
+   99  git branch -M main
+  100  git push -uf origin main
+  101  git log
+  102  git log -n 5
+  103  ls
+  104  git log --diff-filter=D --summary
+  105  git revert commit c442a81fb916cb7bb36a8bc5dbbeaa2b3c5f20b3 
+  106  git revert  c442a81fb916cb7bb36a8bc5dbbeaa2b3c5f20b3
+  107  cd Desktop/
+  108  cd mtn\ app\ academy/
+  109  cd Module\ 3.pdf 
+  110  cd mukwevhorotondwa/module3
+  111  git pull
+  112  git pull https://gitlab.com/roto_dev/rotondwa-mukwevho-module-3.git
+  113  ls
+  114  cd Desktop/
+  115  cd mtn\ app\ academy/
+  116  cd Module\3
+  117  ls
+  118  cd mukwevhorotondwa/
+  119  ls
+  120  cd module3/
+  121  git log -n 5
+  122  cd
+  123  ls
+  124  clear
+  125  cd Desktop/
+  126  ls
+  127  cd projects
+  128  ls
+  129  cd module_3/
+  130  clear
+  131  git init --intial-branch=main
+  132  clear
+  133  git remote add origin git@gitlab.com:roto_dev/rotondwa-mukwevho-module-4.git
+  134  git remote remove
+  135  git remote remove main
+  136  git remote remove origin
+  137  git remote add origin git@gitlab.com:roto_dev/rotondwa-mukwevho-module-4.git
+  138  git add .
+  139  git commit -m "intailcomit"
+  140  git add .
+  141  git add .
+  142  ls
+  143  dc Desktop/
+  144  clear
+  145  ls
+  146  cd Desktop/
+  147  ls
+  148  cd projects
+  149  cd module_3/
+  150  ls
+  151  git rm -r --cached
+  152  gt rm -r --cached .
+  153  git rm -r --cached .
+  154  git remote set-url origin git@gitlab.com:roto_dev/rotondwa-mukwevho-module-4.git
+  155  ls
+  156  cd download
+  157  cd Downloads
+  158  ls
+  159  cd AZURE\ T/
+  160  git clone https://github.com/Mukwevhorotondwa/My_CV.git
+  161  code
+  162  ls
+  163  cd desktop
+  164  ls
+  165  ds \#100devs/
+  166  cd \#100devs/
+  167  ls
+  168  cd class 10
+  169  cd class 10
+  170  cd push\ work/
+  171  ls
+  172  cd template/
+  173  ls
+  174  push 
+  175  echo "# css-practice" >> README.md
+  176  git init
+  177  git add README.md
+  178  git commit -m "first commit"
+  179  git branch -M main
+  180  git remote add origin https://github.com/Mukwevhorotondwa/css-practice.git
+  181  git push -u origin main
+  182  git init
+  183  git add -A
+  184  git commit -m 'practice'
+  185  git remote add origin
+  186  git remote add origin git@github.com:css/practice.git
+  187  git add .
+  188  git status
+  189  pwd
+  190  cd push work
+  191  pwd
+  192  cd Desktop/
+  193  cd \#100devs/
+  194  ls
+  195  cd push
+  196  cd push\ work/
+  197  ls
+  198  cd my\ work/
+  199  pwd
+  200  git init
+  201  git add .
+  202  git status
+  203  pwd
+  204  cd Desktop/
+  205  cd \#100devs/
+  206  ls
+  207  cd push\ work/
+  208  ls
+  209  cd my\ work/
+  210  ls
+  211  git init
+  212  git add .
+  213  git status
+  214  git commit -m 'my css practice'
+  215  git remote add origin https://github.com/Mukwevhorotondwa/css-practice.git
+  216  git push -u origin master
+  217  ls
+  218  ls
+  219  cd
+  220  ls
+  221  mkdr git-basic-exercises
+  222  nano README.md
+  223  cat READMe.md
+  224  git status
+  225   git commit -m"second commit"
+  226  nano README.md 
+  227  git log
+  228  ls
+  229  cd Videos/
+  230  mkdir git-basic-exercises
+  231  cd git-basic-exercises/
+  232  ls -a
+  233  git init
+  234  ls -a
+  235  git status
+  236  git log
+  237  touch README.md
+  238  ls -a
+  239  git status
+  240  git log
+  241  git add
+  242  giit add README.md 
+  243  git add README.md 
+  244  git status
+  245  git status
+  246  git commit -m"initial commit"
+  247  git log
+  248  q
+  249  nano README.md 
+  250  cat README.md 
+  251  git status
+  252  git commit -m"second commit"
+  253  git status
+  254  git add
+  255  git add README.md 
+  256  git commit -m"second commit"
+  257  nano README.md 
+  258  cat README.md 
+  259  git status
+  260  git add README.md 
+  261  git commit -m"third commit"
+  262  git log
+  263  q
+  264  q
+  265  git checkout
+  266   539eeb8e0be1581642fa3b9153242293805f7b80
+  267  git checkout
+  268  539eeb8e0be1581642fa3b9153242293805f7b80
+  269  cat README.md 
+  270  git checkout main
+  271  ls
+  272  cd ../
+  273  ls
+  274  user
+  275  User/
+  276  cd User/
+  277  ls
+  278  cd ../
+  279  ls
+  280  cd Default\
+  281  ls
+  282  cd ../
+  283  cd ../
+  284  ls
+  285  cd Users/
+  286  ls
+  287  cd User/
+  288  ls
+  289  cd Documents/
+  290  ls
+  291  cd js/
+  292  ls
+  293  cd umuzi\ bootcamp/
+  294  ls
+  295  git-basic-exercises/
+  296  cd git-basic-exercises/
+  297  ls
+  298  nano history.txt 
+  299  ls
+  300  cd Documents/
+  301  cd js
+  302  cd umuzi\ bootcamp/
+  303  ls
+  304  cd git-basic-exercises/
+  305  ls
+  306  git branch
+  307  cd milkshakes.md 
+  308  cd milkshake-flavours
+  309  git branch milkshake-flavours 
+  310  git status
+  311  ls
+  312  git branch
+  313  git checkout milkshake-flavours 
+  314  ls
+  315  nano milkshakes.md 
+  316  nano README.md 
+  317  ls
+  318  git checkout main 
+  319  git add .
+  320  git commit -m"milkshake correction"
+  321  git checkout main
+  322  ls
+  323  nano README.md 
+  324  git add .
+  325  git commit -m"Readme correction"
+  326  git checkout history
+  327  ls
+  328  git checkout main
+  329  git merge milkshake-flavours 
+  330  git status
+  331  git add README.md 
+  332  git status
+  333  git commit
+  334  ls
+  335  cd Documents/
+  336  ls
+  337  cd js/
+  338  cd umuzi\ bootcamp/
+  339  ls
+  340  cd git-basic-exercises/
+  341  ls
+  342  git status
+  343  git add .
+  344  git log
+  345  git merge milkshake-flavours 
+  346  git commit -m"correction"
+  347  ls
+  348  git log
+  349  git merge milkshake-flavours 
+  350  git merge history 
+  351  git push
+  352  git checkout history
+  353  git log
+  354  git merge milkshake-flavours 
+  355  clear
+  356  cd ../
+  357  ls
+  358  git mikdir git-basic-exercises
+  359  mikdir git-basic-exercises
+  360  mkdir git-basic-exercises
+  361  ls
+  362  cd git-basic-exercises/
+  363  ls -a
+  364  git init
+  365  ls -a
+  366  git status
+  367  touch README.md
+  368  ls -a
+  369  git status
+  370  git log
+  371  git add
+  372  git add .
+  373  git status
+  374  git commit -m "initial commit"
+  375  git log
+  376  nano README.md 
+  377  cat README.md 
+  378  nano README.md 
+  379  cat README.md 
+  380  git status
+  381  git add .
+  382  git commit -m "second commit"
+  383  nano README.md 
+  384  nano README.md 
+  385  git add .
+  386  git commit -m "third commit"
+  387  git log
+  388  q
+  389  git checkout  0a714ad5757d68285a06e05142d7268a893466dd
+  390  cat README.md 
+  391  git checkout master
+  392  cat README.md 
+  393  git branch
+  394  git branch milkshake-flavours
+  395  git branch
+  396  git checkout milkshake-flavours 
+  397  nano milkshakes.md
+  398  git status
+  399  git add .
+  400  git commit -m "added initial flavours"
+  401  git log
+  402  git checkout master
+  403  git branch history
+  404  git checkout history 
+  405  git log
+  406  history > history.txt
